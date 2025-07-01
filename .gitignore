@@ -176,3 +176,5 @@ logs/
 
 # Project specific
 # Add any project-specific files you want to ignore here
+client.py
+groq_example.py
