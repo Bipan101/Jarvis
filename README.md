@@ -212,6 +212,6 @@ If you have questions or need help:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Bipan Neupane**
 
 *Say "Jarvis" and start your AI journey!* 🚀
