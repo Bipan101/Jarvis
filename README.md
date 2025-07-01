@@ -208,7 +208,7 @@ If you have questions or need help:
 
 1. Check the [Troubleshooting](#-troubleshooting) section
 2. Open an issue on GitHub
-3. Visit [bipanneupane.com](https://bipanneupane.com) for more projects
+3. Visit [bipanneupane.com.np](https://bipanneupane.com.np) for more projects
 
 ---
 
